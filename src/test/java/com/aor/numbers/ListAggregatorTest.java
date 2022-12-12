@@ -1,3 +1,5 @@
+package com.aor.numbers;
+
 import com.aor.numbers.ListAggregator;
 import org.junit.jupiter.api.Assertions;
 import org.testng.annotations.Test;
