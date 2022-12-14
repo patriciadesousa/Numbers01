@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.aor.numbers.ListSorterTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-12-14T23:04:46" hostname="DESKTOP-5S8HCDK" time="0.395">
+<testsuite name="com.aor.numbers.ListSorterTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-12-14T23:07:36" hostname="DESKTOP-5S8HCDK" time="0.432">
   <properties/>
-  <testcase name="sort()" classname="com.aor.numbers.ListSorterTest" time="0.015"/>
+  <testcase name="sort()" classname="com.aor.numbers.ListSorterTest" time="0.017"/>
   <testcase name="sort2()" classname="com.aor.numbers.ListSorterTest" time="0.001"/>
-  <testcase name="sort3()" classname="com.aor.numbers.ListSorterTest" time="0.001"/>
+  <testcase name="sort3()" classname="com.aor.numbers.ListSorterTest" time="0.0"/>
   <testcase name="sort4()" classname="com.aor.numbers.ListSorterTest" time="0.001"/>
   <testcase name="sort5()" classname="com.aor.numbers.ListSorterTest" time="0.001"/>
-  <testcase name="sort8()" classname="com.aor.numbers.ListSorterTest" time="0.001"/>
-  <testcase name="bug_sort_8276()" classname="com.aor.numbers.ListSorterTest" time="0.373"/>
+  <testcase name="sort8()" classname="com.aor.numbers.ListSorterTest" time="0.0"/>
+  <testcase name="bug_sort_8276()" classname="com.aor.numbers.ListSorterTest" time="0.407"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
